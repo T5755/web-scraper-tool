@@ -40,7 +40,10 @@ streamlit run app.py
 浏览器打开终端给出的地址（默认 http://localhost:8501）即可使用。
 留空网址或输入 `demo` 即可用内置示例页面体验。
 
-## 截图说明（放 GitHub 时补一张运行截图）
+## 截图说明
+<img width="1277" height="682" alt="屏幕截图 2026-07-08 130335" src="https://github.com/user-attachments/assets/a68f2e21-a267-4aae-87da-7170f777f730" />
+<img width="1264" height="623" alt="屏幕截图 2026-07-08 130413" src="https://github.com/user-attachments/assets/2a4739aa-e96f-4962-9119-2ba872b07654" />
+<img width="719" height="620" alt="屏幕截图 2026-07-08 130509" src="https://github.com/user-attachments/assets/ef7d503d-f0db-4926-9d25-8d2a38044352" />
 
 1. 主界面：输入网址 + 选择抓取模式
 2. 提取表格后：表格预览 + 三个下载按钮
